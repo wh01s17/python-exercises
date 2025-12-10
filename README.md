@@ -1,6 +1,6 @@
-# Ejercicios Python - Módulo 3
+# Ejercicios de Python
 
-Este repositorio contiene los ejercicios realizados durante el **Módulo 3** del curso de Python de la tarde. Está pensado para que puedan repasar todo lo visto en clase y practicar de forma independiente.
+Este repositorio contiene los ejercicios realizados durante el curso de Python. Está organizado por módulos y lecciones, y está pensado para que puedan repasar los contenidos vistos en clase y practicar de forma independiente.
 
 Las actividades están organizadas por lección y cada carpeta incluye tanto los enunciados como las soluciones en archivos `.py` o `.txt`.
 
