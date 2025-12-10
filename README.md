@@ -28,21 +28,7 @@ modulo-03/
 │ ├── 02-ejercicio-alumnos.py
 │ ├── 03-ejercicio-empresa.py
 │ └── 04-ejercicio-pizza.py
-│
-├── leccion-04/
-│ ├── 00-ejercicios.txt
-│ ├── 01-ejercicio-num-impar.py
-│ ├── 02-ejercicio-triangulo.py
-│ ├── 03-ejercicio-login.py
-│ └── 04-ejercicio-tablas.py
-│
-└── leccion-05/
-├── 00-ejercicios.txt
-├── 01-ejercicio-traductor.py
-├── 02-ejercicio-persona.py
-├── 03-ejercicio-palindromo.py
-├── 04-ejercicio-desviacion-statistics-lib.py
-└── 04-ejercicio-desviacion.py
+...
 ```
 
 ---
